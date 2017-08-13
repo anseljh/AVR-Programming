@@ -1,3 +1,6 @@
-**.o
+**.eeprom
 **.elf
+**.hex
+**.lst
 **.map
+**.o
